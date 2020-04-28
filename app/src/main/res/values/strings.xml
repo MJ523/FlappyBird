@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Flappy Bird</string>
     <string name="start_text">Start!</string>
+    <string name="return_text">Main Menu</string>
+    <string name="forest_description">image of a forest</string>
+    <string name="sky_description">image of the sky</string>
 </resources>
